@@ -1,6 +1,6 @@
 # BreakerZero - Password Cracking & Hash Cracker Toolkit
 
-**Version:** v1.0 - v1.1 Coming Soon
+**Version:** v1.2.1
 
 **Author:** [BackdoorAli aka NotAlita](https://github.com/BackdoorAli)  
 
