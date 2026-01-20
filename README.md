@@ -75,7 +75,7 @@ run_all_plugins("192.168.1.10", "admin", "rockyou.txt")
 This project is licensed under a **modified MIT License**.
 
 - For educational, ethical hacking, and red team use only.
-- Unauthorized or commercial use is prohibited without written consent.
+- Unauthorised or commercial use is prohibited without written consent.
 - Request approval via GitHub: [https://github.com/BackdoorAli](https://github.com/BackdoorAli)
 
 **You break it, you pay for it. Use responsibly.**
