@@ -42,8 +42,9 @@ session_stats_20250414_174318.txt
 
 ## Confidentiality Notice
 
-These reports are for **educational or authorized testing** purposes only.  
+These reports are for **educational or authorised testing** purposes only.  
 They may contain sensitive results such as cracked credentials — handle responsibly.
+Remember, you break it, you pay for it. Use responsibly and legally, not maliciously.
 
 ## Author
 
